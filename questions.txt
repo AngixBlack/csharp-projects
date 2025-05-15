@@ -1,0 +1,15 @@
+What does CPU stand for?|Central Processing Unit,Computer Personal Unit,Core Processing Utility,Control Power Unit|A
+Which company developed the C# programming language?|Microsoft,Google,Apple,Sun Microsystems|A
+What is the main function of an operating system?|Manage hardware and software resources,Write code,Browse the internet,Design graphics|A
+Which of the following is not a web browser?|Chrome,Firebase,Firefox,Edge|B
+What does HTTP stand for?|HyperText Transfer Protocol,HighTech Transfer Protocol,HyperText Transmission Program,Home Text Transfer Program|A
+Which data type is used to store whole numbers in C#?|int,double,string,bool|A
+What is the latest version of Windows as of 2024?|Windows 10,Windows 11,Windows 95,Windows 8.1|B
+Which programming language is primarily used for Android app development?|Java,C#,Swift,Python|A
+What does RAM stand for?|Random Access Memory,Read Access Module,Remote Access Memory,Random Allocation Module|A
+What is the name of Apple's mobile operating system?|Android,iOS,Windows Mobile,BlackBerry OS|B
+Which component stores data permanently in a computer?|RAM,Hard Drive,CPU,Cache|B
+What is the full form of GPU?|Graphics Processing Unit,General Processing Unit,Graphical Power Unit,Global Processing Utility|A
+Which cloud service is provided by Amazon?|Azure,Google Cloud,AWS,Docker|C
+Which of the following is an open-source operating system?|Windows,macOS,Linux,Android|C
+What is the purpose of a firewall in a computer network?|Speed up the internet,Prevent unauthorized access,Store files securely,Monitor mouse movements|B
