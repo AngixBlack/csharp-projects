@@ -101,17 +101,30 @@ class QuizGame
             Console.WriteLine(option);
         }
 
-        Console.Write("Your answer (A, B, C, D): ");
-        string answer = Console.ReadLine().Trim().ToUpper();
+        string answer = "";
+
+        while (true)
+        {
+            Console.Write("Your answer (A, B, C, D): ");
+            answer = Console.ReadLine().Trim().ToUpper();
+
+            if (answer == "A" || answer == "B" || answer == "C" || answer == "D")
+            {
+                break;
+            }
+            else
+            {
+                Console.WriteLine("\n Invalid input. Please enter A, B, C, or D.");
+            }
+        }
 
         if (answer == q.Answer)
         {
-            Console.WriteLine(" Correct!\n");
-            score++;
+            Console.WriteLine(" \n Correct!\n");
         }
         else
         {
-            Console.WriteLine($" Wrong! The correct answer was: {q.Answer}\n");
+            Console.WriteLine($"\n Wrong! The correct answer was: {q.Answer}\n");
         }
     }
 
